@@ -1,0 +1,6 @@
+name: SimplixExample
+version: 1.0
+author: Exceptionflug
+softdepend: [SimplixCore]
+
+main: com.simplixsoft.example.spigot.SpigotExamplePlugin
